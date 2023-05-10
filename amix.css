@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+}
+
+.zid{
+    width: 100vw;
+    height: 12vh;
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+}
+.amixlogo{
+    width: 30vw;
+    height: 12vh;
+    background-color: aqua;
+    font-size:12vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icons{
+    width: 50vw;
+    height: 12vh;
+    background-color: brown;
+    display: flex;
+    justify-content: space-evenly;
+}
+.icon{
+    width: 24%;
+    height: 12vh;
+    background-color: blue;
+}
+.helanke{
+    width: 100vw;
+    height:70vh ;
+    background-color: blueviolet;
+}
